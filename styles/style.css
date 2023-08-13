@@ -1,0 +1,16 @@
+* {
+    background-color: lightblue;
+}
+
+h1 {
+    color: red;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
