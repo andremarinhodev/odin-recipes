@@ -24,3 +24,7 @@ p {
     width: 400px;
     margin: 0 auto;
 }
+
+a {
+    text-decoration: none;
+}
